@@ -1,6 +1,8 @@
 #include <stdarg.h>
 #include <unistd.h>
 #include <stdio.h>
+#include "main.h"
+
 /**
  * print_char - Helper function to print a character.
  * @c: The character to print.
